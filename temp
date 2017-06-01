@@ -1,1 +1,1 @@
-ls: +: No such file or directory
+T41 2017-06-01 10:02:23.323  INFO HostAccessLogAop:validate:55 - agentInfo:null,method:public com.baijia.panama.facade.common.Response com.baijia.panama.biz.wechat.controller.WechatController.getWechatInfo(com.baijia.panama.facade.request.WechatJsTicketRequest),params:{"url":"https://m-lm.genshuixue.com/view/uke/features/features.html?t=1496282542636"}

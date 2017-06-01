@@ -6,3 +6,4 @@ read password
 stty echo
 echo
 echo password read
+echo $password
